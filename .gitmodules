@@ -1,3 +1,6 @@
 [submodule "learning-elisp"]
 	path = learning-elisp
 	url = git@github.com:Keisn1/learning-elisp.git
+[submodule "functional-programming-with-ocaml"]
+	path = functional-programming-with-ocaml
+	url = git@github.com:Keisn1/functional-programming-with-ocaml.git
